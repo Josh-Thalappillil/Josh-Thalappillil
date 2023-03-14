@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Josh-Thalappillil
 - 👀 I’m interested in Software Development and hoping to become a React/Software Developer.
-- 🌱 I’m currently learning HTML, CSS and JavaScript through "The Odin Project".
+- 🌱 I’m currently working at Datacom as a Software Engineer. I am learning JavaScript and React through Percipio.
 - 📫 You can reach me @: https://www.linkedin.com/in/joshua-thalappillil-631825190/
 - 🌐 I have also created a website portfolio with an about page. You can view this here @: https://portfolio-josht.herokuapp.com/ 
 
