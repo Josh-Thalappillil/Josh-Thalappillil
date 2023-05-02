@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Josh-Thalappillil
 - 👀 I’m interested in Software Development and hoping to become a Full Stack Software Developer.
-- 🌱 I’m currently working at Datacom as a Software Engineer. I am learning C# and Java.
+- 🌱 I’m currently Java.
 - 📫 You can reach me @: https://www.linkedin.com/in/joshua-thalappillil-631825190/
 - 🌐 I have also created a website portfolio with an about page. You can view this here @: https://joshportfolio.vercel.app/
 
