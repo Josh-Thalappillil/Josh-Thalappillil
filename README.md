@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Josh-Thalappillil
 - 👀 I’m interested in Software Development and hoping to become a Full Stack Software Developer.
-- 🌱 I’m currently Java.
+- 🌱 I’m currently learning React.
 - 📫 You can reach me @: https://www.linkedin.com/in/joshua-thalappillil-631825190/
 - 🌐 I have also created a website portfolio with an about page. You can view this here @: https://joshportfolio.vercel.app/
 
