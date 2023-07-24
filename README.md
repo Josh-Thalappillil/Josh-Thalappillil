@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Josh-Thalappillil
 - 👀 I’m interested in Software Development and hoping to become a Full Stack Software Developer.
-- 🌱 I’m currently studying for my Azure Certifications.
+- 🌱 I’m currently studying for my AWS & Azure Certifications.
 - 📫 You can reach me @: https://www.linkedin.com/in/joshua-thalappillil-631825190/
-- 🌐 I have also created a website portfolio with an about page. You can view this here @: https://joshportfolio.vercel.app/
+- 🌐 I have also created a website portfolio which includes my resume! You can view this here @: https://portfolio-resume-three.vercel.app/
 
 <!---
 Josh-Thalappillil/Josh-Thalappillil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
